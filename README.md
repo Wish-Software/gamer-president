@@ -3,7 +3,7 @@ A simple chromium extension: a must-have for almost every gamer. It includes all
 Extension Store pages (MANIFEST 2)
 https://microsoftedge.microsoft.com/addons/detail/mflbobcghfnjifgemfdcanojeikjelgg
 Extension Store pages (Manifest 3)
-https://addons.mozilla.org/en-US/firefox/addon/Gamer President/
-https://chromewebstore.google.com/detail/Gamer President/pfckofjmbebonljchcbfoogiiaddeoma
+https://addons.mozilla.org/en-US/firefox/addon/GamerPresident/
+https://chromewebstore.google.com/detail/GamerPresident/pfckofjmbebonljchcbfoogiiaddeoma
 
 Original by dhtdht020
